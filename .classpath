@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/JP BATRA Work/AppData/Local/Android/android-sdk/platforms/android-23/android.jar" sourcepath="C:/Users/JP BATRA Work/AppData/Local/Android/android-sdk/sources/android-23">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/JP BATRA Work/AppData/Local/Android/android-sdk/docs/reference"/>
+		</attributes>
+		<accessrules>
+			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="src" path="/OpenCV Library - 3.1.0"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

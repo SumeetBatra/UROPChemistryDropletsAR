@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChemistryDroplets</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_view">MainView</string>
+    <string name="title_activity_blue_tooth">BlueTooth</string>
+    <string name="title_activity_blue_tooth_module">BlueToothModule</string>
+
+</resources>
